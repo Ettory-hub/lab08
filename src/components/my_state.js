@@ -1,0 +1,1 @@
+export default {my_score:0,my_count:0};
